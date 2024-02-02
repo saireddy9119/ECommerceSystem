@@ -1,4 +1,4 @@
-Project Explanation
+Project Explanation:
 Technologies used is nodejs,expressjs,mongodb,mongoose.
 Mongoose is for database connection and schema of project
 Here ,I use localhost mongodb compass
