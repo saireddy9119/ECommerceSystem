@@ -4,6 +4,9 @@ Project Explanation:
 Technologies used is nodejs,expressjs,mongodb,mongoose.
 
 
+I use MVC Pattern to build this restapi project.
+
+
 Mongoose is for database connection and schema of project.
 
 
