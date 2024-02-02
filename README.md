@@ -15,6 +15,8 @@ Here,I use localhost mongodb compass.
 
 The connection String of mongodb is in .env file.
 
+.env file is hidden it contains port number 5001 and connection string of mongodb.
+
 
 For Start running project in cmd use npm start dev.
 
